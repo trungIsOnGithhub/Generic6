@@ -19,5 +19,8 @@ shared memory,
 - A Picture of Linux Standard File System
 ![Linux Standard File System](/assets/linux-fs.jpg)
 
+- A Picture of Semphore in Thread Management
+![Semaphore in Thread Management](/assets/semaphore.png)
+
 ## Reference
 1. [Digital Notes on Linux Programming - MRCET documents](https://mrcet.com/downloads/digital_notes/IT/LINUX%20PROGRAMMING%20(R15A0527).pdf)
